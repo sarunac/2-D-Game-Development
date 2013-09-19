@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/MALLOY_870assets-2013/!svn/ver/21/examples/sdl/framework/oneSprite
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/Makefile
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/frame.h
+END
+vector2f.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/vector2f.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/clock.h
+END
+parseXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/parseXML.h
+END
+ioManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/ioManager.cpp
+END
+gamedata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/gamedata.cpp
+END
+sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/sprite.cpp
+END
+ioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/ioManager.h
+END
+gamedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/gamedata.h
+END
+manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/manager.cpp
+END
+sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/sprite.h
+END
+manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/manager.h
+END
+extractSurface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/extractSurface.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/main.cpp
+END
+drawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/drawable.h
+END
+extractSurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/extractSurface.h
+END
+frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/frame.cpp
+END
+vector2f.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/vector2f.cpp
+END
+clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/clock.cpp
+END
+parseXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/MALLOY_870assets-2013/!svn/ver/17/examples/sdl/framework/oneSprite/parseXML.cpp
+END

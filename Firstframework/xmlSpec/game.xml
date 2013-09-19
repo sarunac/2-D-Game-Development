@@ -1,0 +1,78 @@
+<?xml version = "1.0"?>
+<GameData>
+
+<view>
+  <viewWidth>640</viewWidth>
+  <viewHeight>480</viewHeight>
+</view>
+
+<world>
+  <worldWidth>640</worldWidth>
+  <worldHeight>480</worldHeight>
+</world>
+
+<screenTitle>Basic Game Framework</screenTitle>
+<numberOfOrbs>3</numberOfOrbs>
+<fpsCaps> 60</fpsCaps>
+
+<font name="font">
+  <fontFile>font/dyslexic-bold.otf</fontFile>
+  <fontSize>14</fontSize>
+  <fontRed>139</fontRed>
+  <fontGreen>0</fontGreen>
+  <fontBlue>0</fontBlue>
+  <fontUnused>0</fontUnused>
+</font>
+<maxStringSize>50</maxStringSize>
+
+<backboard>
+  <backboardFile>images/bg.png</backboardFile>
+  <backboardSrcX>0</backboardSrcX>
+  <backboardSrcY>0</backboardSrcY>
+  <backboardWidth>640</backboardWidth>
+  <backboardHeight>480</backboardHeight>
+  <backboardLoc backboardX="0" backboardY="0"/>
+  <backboardSpeed backboardSpeedX="0" backboardSpeedY="0"/>
+  <backboardTransparency>true</backboardTransparency>
+</backboard>
+
+<greenorb>
+  <greenorbFile>images/finaldrawing.bmp</greenorbFile>
+  <greenorbSrcX>100</greenorbSrcX>
+  <greenorbSrcY>100</greenorbSrcY>
+  <greenorbWidth>100</greenorbWidth>
+  <greenorbHeight>141</greenorbHeight>
+  <greenorbLoc greenorbX="100" greenorbY="100"/>
+  <greenorbSpeed greenorbSpeedX="00" greenorbSpeedY="00"/>
+  <greenorbTransparency>true</greenorbTransparency>
+
+  
+</greenorb>
+
+<pirateorb>
+  <pirateorbFile>images/pirate.bmp</pirateorbFile>
+  <pirateorbSrcX>220</pirateorbSrcX>
+  <pirateorbSrcY>220</pirateorbSrcY>
+  <pirateorbWidth>100</pirateorbWidth>
+  <pirateorbHeight>141</pirateorbHeight>
+  <pirateorbLoc pirateorbX="320" pirateorbY="240"/>
+  <pirateorbSpeed pirateorbSpeedX="200" pirateorbSpeedY="200"/>
+  <pirateorbTransparency>true</pirateorbTransparency>
+</pirateorb>
+
+<boomorb>
+  <boomorbFile>images/boom.bmp</boomorbFile>
+  <boomorbSrcX>0</boomorbSrcX>
+  <boomorbSrcY>0</boomorbSrcY>
+  <boomorbWidth>100</boomorbWidth>
+  <boomorbHeight>141</boomorbHeight>
+  <boomorbLoc boomorbX="320" boomorbY="240"/>
+  <boomorbSpeed boomorbSpeedX="10" boomorbSpeedY="10"/>
+  <boomorbTransparency>true</boomorbTransparency>
+</boomorb>
+
+
+
+
+
+</GameData>
